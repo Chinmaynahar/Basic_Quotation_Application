@@ -1,0 +1,49 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.dart.js
+*.info.json
+*.js
+*.js.map
+*.html
+*.json
+
+# Hive local database
+*.hive
+*.lock
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/key.properties
+android/app/release/
+android/app/profile/
+android/app/debug/
+android/gradlew
+android/gradlew.bat
+android/gradle-wrapper.jar
+
+# VS Code
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+*.bak
+*.orig
+*.lock
+
+# Secrets / Env
+.env
+.env.*
+google-services.json
